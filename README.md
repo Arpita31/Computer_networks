@@ -42,5 +42,3 @@ This repository contains implementations of some core computer network problems.
 MIT License. See [LICENSE](LICENSE) for details.
 
 --- 
-
-Happy coding! 🚀
