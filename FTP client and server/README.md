@@ -3,11 +3,12 @@
 ## Description
 This project implements a simple version of an FTP client/server software. The system consists of two programs:
 
-https://github.com/user-attachments/assets/5f869eae-d6f7-4cae-860f-42e6698e8283
-
-
 - **ftpserver**: A server that listens for client connections on a specified TCP port.
 - **ftpclient**: A client that connects to the server and issues commands to transfer files.
+
+
+https://github.com/user-attachments/assets/c8dad715-77f6-46d2-b07a-ea09a2dd17cb
+
 
 ### Workflow
 1. The **ftpserver** is started on a computer and listens on a specified TCP port (e.g., 5106).
