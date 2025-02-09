@@ -3,6 +3,8 @@
 ---
 
 #### **Project Description**
+https://github.com/user-attachments/assets/ff65c187-c1b4-4900-b5f9-49afc4ed8658
+
 This project implements a simple FTP (File Transfer Protocol) client-server system using multiple threads to support concurrent file transfers. The system consists of two programs:
 1. **ftpserver**: A server program that listens on a specified TCP port and handles multiple client connections using threads.
 2. **ftpclient**: A client program that connects to the server and allows users to upload or download files.
@@ -13,7 +15,6 @@ The server and client programs support the following commands:
 
 Files are transferred in chunks of 1KB to handle large files efficiently. The server and client programs are designed to work on the same machine, with the server port specified as a command-line argument.
 
-https://github.com/user-attachments/assets/ff65c187-c1b4-4900-b5f9-49afc4ed8658
 
 
 ---
