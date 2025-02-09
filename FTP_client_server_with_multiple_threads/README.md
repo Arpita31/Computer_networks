@@ -13,6 +13,9 @@ The server and client programs support the following commands:
 
 Files are transferred in chunks of 1KB to handle large files efficiently. The server and client programs are designed to work on the same machine, with the server port specified as a command-line argument.
 
+https://github.com/user-attachments/assets/ff65c187-c1b4-4900-b5f9-49afc4ed8658
+
+
 ---
 
 #### **Testing Sequence**
